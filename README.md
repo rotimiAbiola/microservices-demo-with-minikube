@@ -11,11 +11,11 @@ Ensure you have docker and minikube running (with at least 4000mb of memory and 
 
 Once all the containers are running, proceed to run "minikube ip" to get the cluster IP. Copy the IP address to your browser and attach the nodePort of the respective service you want to access.
 
-http://minikube_ip:30001 to access socks-shop frontend
-http://minikube_ip:30100 to access phonie-app frontend
-http://minikube_ip:32220 to access mongo-express
-http://minikube_ip:31300 to access grafana dashboard
-http://minikube_ip:31090 to access prometheus
+* http://minikube_ip:30001 to access socks-shop frontend
+* http://minikube_ip:30100 to access phonie-app frontend
+* http://minikube_ip:32220 to access mongo-express
+* http://minikube_ip:31300 to access grafana dashboard
+* http://minikube_ip:31090 to access prometheus
 
 
 
